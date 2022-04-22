@@ -1,4 +1,0 @@
-{
-  "appService.deploySubpath": ".",
-  "appService.defaultWebAppToDeploy": "/subscriptions/704e7ccc-7583-459b-bbfb-d88bdb241298/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/tajamulportfolio"
-}
