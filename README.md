@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack web developer
 ------------------------
 
-I've been learning to code for 4 years during and after college, started with HTML and then JavaScript, and CSS but have found a passion for backend development & WEB3.<br>
-Built portfolio for myself, A modern and responsive portfolio website designed to showcase personal skills, projects, and experiences effectively. Built with a clean and robust layout, it features:<br>
-About Me: A detailed introduction and highlights of skills.
+I've been learning to code for 4 years during and after college, started with HTML and then JavaScript, and CSS but have found a passion for backend development & WEB3.
+Built portfolio for myself, A modern and responsive portfolio website designed to showcase personal skills, projects, and experiences effectively. Built with a clean and robust layout, it features:
+* About Me: A detailed introduction and highlights of skills.
 Skills Section: A concise list of technical expertise.
 Testimonials: Feedback and recommendations presented in an interactive carousel.
 Contact Form: A user-friendly interface to reach out.
