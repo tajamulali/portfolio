@@ -11,7 +11,8 @@ Built portfolio for myself, A modern and responsive portfolio website designed t
 * Skills Section: A concise list of technical expertise.
 * Testimonials: Feedback and recommendations presented in an interactive carousel.
 * Contact Form: A user-friendly interface to reach out.
-* The design leverages HTML, CSS, Bootstrap, and JavaScript for responsiveness and interactivity, ensuring seamless performance across all devices. This portfolio * serves as a professional platform to highlight personal branding and connect with employers or collaborators.
+* The design leverages HTML, CSS, Bootstrap, and JavaScript for responsiveness and interactivity, ensuring seamless performance across all devices.
+* This portfolio serves as a professional platform to highlight personal branding and connect with employers or collaborators.
 ------------------------
 Features:
 * Fully responsive design.
