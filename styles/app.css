@@ -599,7 +599,7 @@ img {
     display: flex;
     flex-direction: column;
     gap: 2rem;
-    background-color: var(--color-darkest);
+    background-color: var(--color-orange);
     padding: 4rem; }
   .contact__fields label {
     position: absolute;
@@ -611,7 +611,7 @@ img {
     padding-left: 0;
     background: transparent;
     border: none;
-    border-bottom: 2px solid var(--color-darker); }
+    border-bottom: 2px solid var(--color-accent); }
   .contact__fields textarea {
     resize: none;
     height: 12rem; }
