@@ -407,7 +407,9 @@ img {
     padding: 2.5rem 0 0 2.5rem;
     line-height: 0; }
     .portfolio__img img {
-      border-top-left-radius: 0.7rem; }
+      border-top-left-radius: 1rem;
+      width: 95%;
+     }
   .portfolio__title {
     font-size: 2.4rem;
     margin: 1rem 0;
