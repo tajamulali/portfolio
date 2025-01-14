@@ -5,21 +5,21 @@ Full-stack web developer
 ------------------------
 
 I've been learning to code for 4 years during and after college, started with HTML and then JavaScript, and CSS but have found a passion for backend development & WEB3.
+------------------------
 Built portfolio for myself, A modern and responsive portfolio website designed to showcase personal skills, projects, and experiences effectively. Built with a clean and robust layout, it features:
 * About Me: A detailed introduction and highlights of skills.
-Skills Section: A concise list of technical expertise.
-Testimonials: Feedback and recommendations presented in an interactive carousel.
-Contact Form: A user-friendly interface to reach out.
-The design leverages HTML, CSS, Bootstrap, and JavaScript for responsiveness and interactivity, ensuring seamless performance across all devices. This portfolio serves as a professional platform to highlight personal branding and connect with employers or collaborators.
-<br>
+* Skills Section: A concise list of technical expertise.
+* Testimonials: Feedback and recommendations presented in an interactive carousel.
+* Contact Form: A user-friendly interface to reach out.
+* The design leverages HTML, CSS, Bootstrap, and JavaScript for responsiveness and interactivity, ensuring seamless performance across all devices. This portfolio * serves as a professional platform to highlight personal branding and connect with employers or collaborators.
+------------------------
 Features:
-<br>
-Fully responsive design.
-Engaging animations and transitions.
-Integrated social media links.
-Clean and maintainable codebase.
-Feel free to explore and contribute!
-
+* Fully responsive design.
+* Engaging animations and transitions.
+* Integrated social media links.
+* Clean and maintainable codebase.
+* Feel free to explore and contribute!
+------------------------
 
 
 * 🌍  I'm based in Kashmir
