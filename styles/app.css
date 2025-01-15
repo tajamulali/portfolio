@@ -679,9 +679,10 @@ img {
       font-weight: var(--font-semi-bold); 
     }
 
-    .blog-btn{
+    .blogs_link{
         display: inline-block;
-        padding: 12px 25px;
+        padding: 5px 15px;
+        margin: 5px 20px 20px 10px;
         font-size: 1rem;
         color: #333;
         background-color: #ffc107;
