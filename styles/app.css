@@ -676,4 +676,18 @@ img {
     margin: 4rem 0; }
     .portfolioSingle__content a {
       color: var(--color-accent);
-      font-weight: var(--font-semi-bold); }
+      font-weight: var(--font-semi-bold); 
+    }
+
+    .blog-btn{
+        display: inline-block;
+        padding: 12px 25px;
+        font-size: 1rem;
+        color: #333;
+        background-color: #ffc107;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: bold;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
