@@ -259,13 +259,13 @@ img {
     .header #navigation-button {
       font-size: 2rem; } }
 
-.hero {
+.body {
   position: relative;
   height: 80vh;
   display: flex;
   align-items: center;
   justify-content: center; }
-  .hero__wrapper {
+  .body__wrapper {
     margin-top: 8rem;
     display: flex;
     flex-direction: column;
@@ -273,14 +273,14 @@ img {
     justify-content: center;
     text-align: center;
     gap: 2rem; }
-  .hero__img {
+  .body__img {
     margin-top: 6rem;
     width: 100%;
     height: 40vh;
     background-repeat: no-repeat;
     background-position: center top;
     background-size: contain; }
-    .hero__img img {
+    .body__img img {
       object-fit: cover;
       object-position: center;
       width: 100%;
@@ -288,7 +288,7 @@ img {
       border-radius: 50%;
       line-height: 0;
       border: 0.5rem solid var(--color-black); }
-  .hero__imgCircle {
+  .body__imgCircle {
     margin: 0 auto;
     margin-top: -4rem;
     height: 16rem;
@@ -296,34 +296,34 @@ img {
     border: 0.5rem solid var(--color-main);
     border-radius: 50%; }
     @media only screen and (max-width: 900px) {
-      .hero__imgCircle {
+      .body__imgCircle {
         height: 14rem;
         width: 14rem; } }
     @media only screen and (max-width: 600px) {
-      .hero__imgCircle {
+      .body__imgCircle {
         height: 12rem;
         width: 12rem; } }
-  .hero__title {
+  .body__title {
     font-weight: var(--font-black);
     font-size: 4.8rem;
     line-height: 1.05;
     color: var(--color-accent); }
     @media only screen and (max-width: 900px) {
-      .hero__title {
+      .body__title {
         font-size: 4.2rem; } }
     @media only screen and (max-width: 900px) {
-      .hero__title {
+      .body__title {
         font-size: 3.6rem; } }
     @media only screen and (max-width: 600px) {
-      .hero__title {
+      .body__title {
         font-size: 3.2rem; } }
     @media only screen and (max-width: 480px) {
-      .hero__title {
+      .body__title {
         font-size: 2.4rem; } }
-  .hero__content {
+  .body__content {
     max-width: 65rem;
     width: 90%; }
-  .hero__social {
+  .body__social {
     position: absolute;
     bottom: 6rem; }
 
